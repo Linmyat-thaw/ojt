@@ -1,0 +1,19 @@
+git init
+git remote origin ...
+git add . 
+git commit -m "commit name"
+git git branch
+git push -u origin branch_name
+
+
+
+
+ --- git update ----
+ git add .
+ git commit -m "commit name"
+ git branch စစ်ဆေး
+ branch name တူရင် 
+ git push 
+
+ branch name မတူရင်
+ git push -u origin branch_name     
